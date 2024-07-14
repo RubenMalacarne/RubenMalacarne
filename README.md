@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Ruben Malacarne</h1>
 <h3 align="center">A passionate robotics engineer developer from Italy</h3>
-<img align="right" alt="Coding" width="400" src="[[https://imagart.com/?q=automotive+insurance+quotes+online](https://i.pinimg.com/originals/cc/32/99/cc3299350f3d91327d4a8922ecae8fb8.gif)](https://i.pinimg.com/originals/cc/32/99/cc3299350f3d91327d4a8922ecae8fb8.gif)">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/cc/32/99/cc3299350f3d91327d4a8922ecae8fb8.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rubenmalacarne&label=Profile%20views&color=0e75b6&style=flat" alt="rubenmalacarne" /> </p>
 
