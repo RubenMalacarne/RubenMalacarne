@@ -3,6 +3,8 @@
 <h3 align="center">A passionate robotics engineer developer from Italy</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/cc/32/99/cc3299350f3d91327d4a8922ecae8fb8.gif">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rubenmalacarne&label=Profile%20views&color=0e75b6&style=flat" alt="rubenmalacarne" /> </p>
+
 - 🏫 I am a Student In Artificial Intelligence Systems at  [University of Trento (DISI department)](https://www.disi.unitn.it/it)
 
 - 🌱 I’m currently learning **all thinks robotics related**
