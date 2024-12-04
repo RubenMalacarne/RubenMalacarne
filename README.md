@@ -7,7 +7,7 @@
 
 - 🏫 I am a Student In Artificial Intelligence Systems at  [University of Trento (DISI department)](https://www.disi.unitn.it/it)
 
-- 🌱 I’m currently learning **all thinks robotics related**
+- 🌱 I’m currently learning **all things robotics related**
 
 - 💬 Ask me about **Climb, Robotics, Electronics, Drone FPV, Gardening and Electronics**
 
