@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ruben.malacarne@gmail.com**
 
-- ⚡ Fun fact **I think i am very curious**
+- ⚡ Fun Fact: **My curiosity knows no limits.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
