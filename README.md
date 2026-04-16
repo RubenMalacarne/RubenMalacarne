@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **all things robotics related**
 
-- 💬 Ask me about **Climb, Robotics, Electronics, Drone FPV, Gardening and Electronics**
+- 💬 Ask me about **Climb, Robotics, Electronics, Software, Drone FPV, Electronics**
 
 - 📫 How to reach me **ruben.malacarne@gmail.com**
 
